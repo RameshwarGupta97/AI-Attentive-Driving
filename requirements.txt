@@ -1,0 +1,8 @@
+opencv-python
+CMake
+dlib
+numpy
+imutils
+scipy
+getmac
+pygame
